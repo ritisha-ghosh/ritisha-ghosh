@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ritisha-ghosh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning "computer science and engineering"
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :- " ritisha.ghosh2004@gmail.com "
+- 👀 I’m interested in learning something new.
+- 🌱 I’m currently learning "computer science and engineering".
+- 💞️ I’m looking to collaborate on .....
+- 📫 How to reach me :- " ritisha.ghosh2004@gmail.com ".

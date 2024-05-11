@@ -2,4 +2,4 @@
 - 👀 I’m interested in learning something new.
 - 🌱 I’m currently learning "computer science and engineering".
 - 💞️ I’m looking to collaborate on .....
-- 📫 How to reach me :- " ritisha.ghosh2004@gmail.com ".
+- 📫 How to reach me :- " rg.contact.510@gmail.com ".

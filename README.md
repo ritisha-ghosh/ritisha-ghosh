@@ -2,3 +2,4 @@
 - 👀 I’m interested in learning something new.
 - 🌱 I’m currently learning "computer science and engineering".
 - 📫 How to reach me :- " rg.contact.510@gmail.com ".
+- 🔖 LinkedIn profile :- " https://www.linkedin.com/in/ritisha-ghosh-510rg2004 ".

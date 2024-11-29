@@ -2,4 +2,3 @@
 - 👀 I’m interested in learning something new.
 - 🌱 I’m currently pursing "B.Tect in computer science and engineering".
 - 📫 How to reach me :- " iam.ritisha5@gmail.com ".
-- 🔖 LinkedIn profile :- " https://www.linkedin.com/in/ritisha-ghosh-510rg2004 ".

@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Ritisha Ghosh
 
-###👀 I'm passionate about exploring new technologies and learning something new every day.  
-###🌱 Currently pursuing **B.Tech in Computer Science & Engineering**.  
-###📫 Reach me at: [`iam.ritisha5@gmail.com`](mailto:iam.ritisha5@gmail.com)
+### 👀 I'm passionate about exploring new technologies and learning something new every day.  
+### 🌱 Currently pursuing **B.Tech in Computer Science & Engineering**.  
+### 📫 Reach me at: [`iam.ritisha5@gmail.com`](mailto:iam.ritisha5@gmail.com)
 
 ---
 ## 🧠 My Skills 

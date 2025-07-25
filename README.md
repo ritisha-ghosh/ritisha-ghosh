@@ -1,12 +1,9 @@
 # 👋 Hi, I’m Ritisha Ghosh
 
-### 👀 I'm passionate about exploring new technologies and learning something new every day.  
-### 🌱 Currently pursuing **B.Tech in Computer Science & Engineering**.  
+### 👀 I'm passionate about exploring new technologies and learning something new every day.   
 ### 📫 Reach me at: [`iam.ritisha5@gmail.com`](mailto:iam.ritisha5@gmail.com)
-
 ---
 ## 🧠 My Skills 
-
 ### 💻 Programming Languages
 ![JAVA](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)

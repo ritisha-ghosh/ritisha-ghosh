@@ -1,5 +1,4 @@
 # 👋 Hi, I’m Ritisha Ghosh
-
 ### 👀 I'm passionate about exploring new technologies and learning something new every day.   
 ### 📫 Reach me at: [`iam.ritisha5@gmail.com`](mailto:iam.ritisha5@gmail.com)
 ---

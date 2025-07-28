@@ -2,7 +2,7 @@
 ### 👀 I'm passionate about exploring new technologies and learning something new every day.  
 ### 📫 Reach me at: [`iam.ritisha5@gmail.com`](mailto:iam.ritisha5@gmail.com)  
 ---  
-## 🧠 My Skills  
+## 🧠 My Skills 
 
 | 💻 Programming Languages                                  | 🌐 Web Technologies                                            |
 |----------------------------------------------------------|----------------------------------------------------------------|

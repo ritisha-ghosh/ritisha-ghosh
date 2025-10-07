@@ -15,20 +15,20 @@
 ---  
 ## 🌐 My Profiles
 
-| <p align="left">
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" style="margin-right: 15px;" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 15px;"/>
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" style="margin-right: 15px;" />
+  <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right: 15px; filter: invert(1);" />
   </a>
-  <a href="https://www.credly.com/users/yourusername" target="_blank">
-    <img src="https://images.credly.com/brand-assets/credly-icon.svg" width="40" alt="Credly" style="margin-right: 15px;" />
+  <a href="https://www.credly.com/users/yourusername" target="_blank" rel="noopener noreferrer">
+    <img src="https://images.credly.com/brand-assets/credly-icon.svg" alt="Credly" width="40" height="40" style="margin-right: 15px;"/>
   </a>
-  <a href="https://www.hackerrank.com/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40" alt="HackerRank" style="margin-right: 15px;" />
+  <a href="https://www.hackerrank.com/yourusername" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="40" height="40" style="margin-right: 15px;"/>
   </a>
-  <a href="https://leetcode.com/yourusername" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode" style="margin-right: 15px;" />
+  <a href="https://leetcode.com/yourusername" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40" style="margin-right: 15px; filter: invert(1);"/>
   </a>
-</p> |
+</p>

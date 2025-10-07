@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ritisha Ghosh  
 ### 👀 I'm passionate about exploring new technologies and learning something new every day.  
-### 📫 Reach me at: [`Mail`](mailto:iam.ritisha5@gmail.com)  
+### 📫 Reach me at: [![Gmail Icon](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png)](mailto:iam.ritisha5@gmail.com)
 ---  
 ## 🧠 My Skills 
 

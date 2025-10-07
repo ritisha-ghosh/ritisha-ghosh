@@ -26,7 +26,7 @@
     <img src="https://cdn.simpleicons.org/credly" alt="Credly" width="40" height="40" style="margin-right: 15px;"/>
   </a>
   <a href="https://www.hackerrank.com/yourusername" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/hackerrank" alt="HackerRank" width="40" height="40" style="margin-right: 15px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="40" height="40" style="margin-right: 15px;"/>
   </a>
   <a href="https://leetcode.com/yourusername" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40" style="margin-right: 15px; filter: invert(1);"/>

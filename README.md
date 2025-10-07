@@ -15,5 +15,20 @@
 ---  
 ## 🧠 My Profiles
 
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername) [![Credly](https://img.shields.io/badge/Credly-F36F21?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/yourusername) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yourusername) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername) |
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" style="margin: 10px;" />
+  </a>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" style="margin: 10px;" />
+  </a>
+  <a href="https://www.credly.com/users/yourusername" target="_blank">
+    <img src="https://images.credly.com/brand-assets/credly-icon.svg" width="40" alt="Credly" style="margin: 10px;" />
+  </a>
+  <a href="https://www.hackerrank.com/yourusername" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40" alt="HackerRank" style="margin: 10px;" />
+  </a>
+  <a href="https://leetcode.com/yourusername" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode" style="margin: 10px;" />
+  </a>
+</p>

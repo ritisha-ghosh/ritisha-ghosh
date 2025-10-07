@@ -15,20 +15,20 @@
 ---  
 ## 🧠 My Profiles
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" style="margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" style="margin-right: 15px;" />
   </a>
   <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" style="margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" style="margin-right: 15px;" />
   </a>
   <a href="https://www.credly.com/users/yourusername" target="_blank">
-    <img src="https://images.credly.com/brand-assets/credly-icon.svg" width="40" alt="Credly" style="margin: 10px;" />
+    <img src="https://images.credly.com/brand-assets/credly-icon.svg" width="40" alt="Credly" style="margin-right: 15px;" />
   </a>
   <a href="https://www.hackerrank.com/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40" alt="HackerRank" style="margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40" alt="HackerRank" style="margin-right: 15px;" />
   </a>
   <a href="https://leetcode.com/yourusername" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode" style="margin: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode" style="margin-right: 15px;" />
   </a>
 </p>

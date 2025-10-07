@@ -32,8 +32,8 @@
     <img src="https://cdn.simpleicons.org/hackerrank" alt="HackerRank" width="40" height="40" style="margin-right: 15px;"/>
   </a>
   
-  <a href="https://leetcode.com/u/_ritisha_ghosh_" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.simpleicons.org/leetcode/white" alt="LeetCode" width="40" height="40" style="margin-right: 15px;"/>
+ <a href="https://leetcode.com/u/_ritisha_ghosh_" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40" style="margin-right: 15px; filter: invert(1);"/>
 </a>
 </a>
 </p>

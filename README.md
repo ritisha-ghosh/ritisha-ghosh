@@ -27,7 +27,7 @@
   </a>
 
 <a href="https://www.credly.com/users/ritisha-ghosh-5/badges" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/credly/credly.svg" alt="Credly" width="40" height="40" style="margin-right: 25px;"/>
+  <img src="https://raw.githubusercontent.com/Readme-Icons/icons/main/icons/credly.svg" alt="Credly" width="40" height="40" style="margin-right: 25px;"/>
 </a>
   
 </p>

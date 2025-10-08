@@ -2,7 +2,7 @@
 ### 👀 I'm passionate about exploring new technologies and learning something new every day.  
 ### 📫 Reach me at : [Email ID](mailto:iam.ritisha5@gmail.com) 
 
-
+### 📫 Reach me at : [![Email](https://img.shields.io/badge/Email-iam.ritisha5@gmail.com-blue?logo=gmail&logoColor=white&style=flat)](mailto:iam.ritisha5@gmail.com)
 ---
 
 

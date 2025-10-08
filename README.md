@@ -9,6 +9,7 @@
 ## 🌐 My Profiles
 
 <p align="left">
+  
   <a href="https://www.linkedin.com/in/ritisha-ghosh-510rg2004" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" style="margin-right: 25px;"/>
   </a>
@@ -24,6 +25,11 @@
   <a href="https://github.com/ritisha-ghosh" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" width="40" height="40" style="margin-right: 25px;"/>
   </a>
+
+<a href="https://www.credly.com/users/ritisha-ghosh-5/badges" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/credly/credly-original.svg" alt="Credly" width="40" height="40" style="margin-right: 25px;"/>
+</a>
+  
 </p>
 
 

@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ritisha Ghosh  
 ### 👀 I'm passionate about exploring new technologies and learning something new every day.  
 ### 📫 Reach me at : [Email ID](mailto:iam.ritisha5@gmail.com) 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
 
 ---
 

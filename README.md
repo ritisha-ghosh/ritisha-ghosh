@@ -10,19 +10,19 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ritisha-ghosh-510rg2004" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" style="margin-right: 15px;"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" style="margin-right: 25px;"/>
   </a>
 
   <a href="https://leetcode.com/u/_ritisha_ghosh_" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40" style="margin-right: 15px; filter: invert(1);"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40" style="margin-right: 25px; filter: invert(1);"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/ritisha_ghosh" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/hackerrank" alt="HackerRank" width="40" height="40" style="margin-right: 15px;"/>
+    <img src="https://cdn.simpleicons.org/hackerrank" alt="HackerRank" width="40" height="40" style="margin-right: 25px;"/>
   </a>
   
   <a href="https://github.com/ritisha-ghosh" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" width="40" height="40" style="margin-right: 15px;"/>
+    <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" width="40" height="40" style="margin-right: 25px;"/>
   </a>
 </p>
 

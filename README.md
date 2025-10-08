@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Ritisha Ghosh  
 ### 👀 I'm passionate about exploring new technologies and learning something new every day.  
-### 📫 Reach me at : [![Email](https://img.shields.io/badge/blue?logo=gmail&logoColor=white&style=flat)](mailto:iam.ritisha5@gmail.com)
+[![Email](https://img.shields.io/badge/-white?logo=gmail&logoColor=orange&style=flat-square)](mailto:iam.ritisha5@gmail.com)
+
+
 ---
 
 

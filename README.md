@@ -21,16 +21,15 @@
 <a href="https://www.hackerrank.com/profile/ritisha_ghosh" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.simpleicons.org/hackerrank" alt="HackerRank" width="40" height="40" style="margin-right: 25px;"/>
   </a>
+
+  <a href="https://www.credly.com/users/ritisha-ghosh-5/badges" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/credly.svg" alt="Credly" color="orange" width="40" height="40" style="margin-right: 20px;" />
+</a>
   
   <a href="https://github.com/ritisha-ghosh" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" width="40" height="40" style="margin-right: 25px;"/>
   </a>
 
-<a href="https://www.credly.com/users/ritisha-ghosh-5/badges" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.imgur.com/yourCustomCredlyIcon.png" alt="Credly" width="40" height="40" style="margin-right: 20px;" />
-</a>
-
-  
 </p> 
 
 

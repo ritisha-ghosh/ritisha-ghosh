@@ -47,26 +47,3 @@
 | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-0099A8?style=for-the-badge&logo=canva&logoColor=black) |
 
 
-<p align="left" style="text-decoration: none;">
-
-  <a href="https://www.linkedin.com/in/ritisha-ghosh-510rg2004" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" style="margin-right: 25px;"/>
-  </a>
-
-  <a href="https://leetcode.com/u/_ritisha_ghosh_" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40" style="margin-right: 25px; filter: invert(1);"/>
-  </a>
-
-  <a href="https://www.hackerrank.com/profile/ritisha_ghosh" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/hackerrank" alt="HackerRank" width="40" height="40" style="margin-right: 25px;"/>
-  </a>
-
-<a href="https://www.credly.com/users/ritisha-ghosh-5/badges" target="_blank" rel="noopener noreferrer" style="text-decoration: none; background-color: orange; border-radius: 50%; padding: 5px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/credly.svg" alt="Credly" width="30" height="30"/>
-  </a>
-
-  <a href="https://github.com/ritisha-ghosh" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" width="40" height="40" style="margin-right: 25px;"/>
-  </a>
-
-</p>

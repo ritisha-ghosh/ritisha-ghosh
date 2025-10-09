@@ -26,8 +26,11 @@
     <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" width="40" height="40" style="margin-right: 25px;"/>
   </a>
 
-<a href="https://www.credly.com/users/ritisha-ghosh-5/badges" target="_blank" rel="noopener noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Credly_Logo.svg" alt="Credly" width="40" height="40" style="margin-right: 25px;"/>
+<a href="https://www.credly.com/users/ritisha-ghosh-5/badges" target="_blank" rel="noopener noreferrer" style="margin-right: 25px;">
+  <svg style="width: 40px; height: 40px;" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <title>Credly</title>
+    <path fill="red" d="M23.8 13.154a.299.299 0 0 0-.101-.024... (SVG path truncated for brevity) ..."/>
+  </svg>
 </a>
   
 </p> 

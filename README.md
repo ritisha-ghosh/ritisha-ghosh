@@ -23,19 +23,16 @@
   </a>
 
   <a href="https://www.credly.com/users/ritisha-ghosh-5/badges" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/credly.svg" alt="Credly" color="orange" width="40" height="40" style="margin-right: 20px;" />
-</a>
-
-<a href="https://www.credly.com/users/ritisha-ghosh-5/badges" target="_blank" rel="noopener noreferrer">
-  <svg width="40" height="40" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" style="margin-right: 20px;">
-    <title>Credly</title>
-    <path fill="orange" d="M23.8 13.154a.299.299 0 0 0-.101-.024... (SVG path truncated for brevity) ..." />
-  </svg>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/credly.svg" alt="Credly"  width="40" height="40" style="margin-right: 20px;" />
 </a>
   
   <a href="https://github.com/ritisha-ghosh" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" width="40" height="40" style="margin-right: 25px;"/>
   </a>
+
+<a href="https://www.credly.com/users/ritisha-ghosh-5/badges" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/credly.svg" alt="Credly" width="40" height="40" style="margin-right: 20px; filter: invert(45%) sepia(100%) saturate(1000%) hue-rotate(-15deg) brightness(100%) contrast(90%);" />
+</a>
 
 </p> 
 

@@ -8,7 +8,8 @@
 
 ## 🌐 My Profiles
 
-<p align="left">
+
+| <p align="left">
   
   <a href="https://www.linkedin.com/in/ritisha-ghosh-510rg2004" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" style="margin-right: 25px;"/>
@@ -30,7 +31,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Credly_Logo.svg" alt="Credly" width="40" height="40" style="margin-right: 25px;"/>
 </a>
   
-</p>
+</p> |
 
 
 ---

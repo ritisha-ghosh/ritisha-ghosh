@@ -46,4 +46,4 @@
 |----------------------------------------------------------|----------------------------------------------------------------|
 | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-0099A8?style=for-the-badge&logo=canva&logoColor=black) |
 
-
+  

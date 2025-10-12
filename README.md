@@ -30,20 +30,6 @@
     <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" width="40" height="40" style="margin-right: 25px;"/>
   </a>
 
-<a href="https://www.credly.com/users/ritisha-ghosh-5/badges" target="_blank" rel="noopener noreferrer">
-  <svg 
-    role="img" 
-    viewBox="0 0 24 24" 
-    xmlns="http://www.w3.org/2000/svg" 
-    width="40" 
-    height="40" 
-    style="margin-right: 20px;" 
-    fill="orange"
-  >
-    <title>Credly</title>
-    <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12c2.13 0 4.11-.563 5.812-1.556l-3.32-3.32c-1.01.438-2.126.7-3.304.7-4.04 0-7.322-3.28-7.322-7.322S7.848 4.188 11.888 4.188c1.15 0 2.23.27 3.203.73l3.34-3.34A11.93 11.93 0 0 0 12 0zm10.444 8.788l-4.14 4.14c.225.92.36 1.886.36 2.884 0 4.04-3.28 7.322-7.322 7.322-1.025 0-1.99-.214-2.86-.59l-4.137 4.137A11.95 11.95 0 0 0 12 24c6.627 0 12-5.373 12-12 0-2.115-.55-4.09-1.556-5.788z"/>
-  </svg>
-</a>
 </p> 
 
 

@@ -31,7 +31,13 @@
   </a>
 
 <a href="https://www.credly.com/users/ritisha-ghosh-5/badges" target="_blank" rel="noopener noreferrer">
-  <img src="Credly_Logo_Orange_10-Inch.webp" alt="Credly" height="40" style="margin-right: 20px;" />
+  <img 
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/credly.svg" 
+    alt="Credly" 
+    width="40" 
+    height="40" 
+    style="margin-right: 20px; filter: invert(72%) sepia(58%) saturate(5419%) hue-rotate(359deg) brightness(102%) contrast(102%);" 
+  />
 </a>
 </p> 
 

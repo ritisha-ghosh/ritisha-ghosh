@@ -31,7 +31,7 @@
   </a>
 
 <a href="https://www.credly.com/users/ritisha-ghosh-5/badges" target="_blank" rel="noopener noreferrer">
-  <img src="Credly_Logo_Orange_10-Inch.webp" alt="Credly" width="40" height="40" style="margin-right: 20px;" />
+  <img src="Credly_Logo_Orange_10-Inch.webp" alt="Credly" height="40" style="margin-right: 20px;" />
 </a>
 </p> 
 

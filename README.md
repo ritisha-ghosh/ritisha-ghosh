@@ -8,29 +8,30 @@
 
 ## 🌐 My Profiles
 
-<p align="left" style="display:flex; flex-direction:row; align-items:center;">
+<div style="display:flex; align-items:center; gap:25px;">
   
-  <a href="https://www.linkedin.com/in/ritisha-ghosh-510rg2004" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-right:25px;">
+  <a href="https://www.linkedin.com/in/ritisha-ghosh-510rg2004" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
   </a>
 
-  <a href="https://leetcode.com/u/_ritisha_ghosh_" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-right:25px;">
+  <a href="https://leetcode.com/u/_ritisha_ghosh_" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40" style="filter: invert(1);"/>
   </a>
 
-  <a href="https://www.hackerrank.com/profile/ritisha_ghosh" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-right:25px;">
+  <a href="https://www.hackerrank.com/profile/ritisha_ghosh" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.simpleicons.org/hackerrank" alt="HackerRank" width="40" height="40"/>
   </a>
 
-  <a href="https://www.credly.com/users/ritisha-ghosh-5/badges" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-right:20px;">
+  <a href="https://www.credly.com/users/ritisha-ghosh-5/badges" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/credly.svg" alt="Credly" width="40" height="40"/>
   </a>
   
-  <a href="https://github.com/ritisha-ghosh" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-right:25px;">
+  <a href="https://github.com/ritisha-ghosh" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" width="40" height="40"/>
   </a>
 
-</p>
+</div>
+
 
 
 ---
